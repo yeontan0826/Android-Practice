@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757963007990",
+    "project_id": "wise-saying-88481",
+    "storage_bucket": "wise-saying-88481.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757963007990:android:f722073d4ccaed7fbd89d7",
+        "android_client_info": {
+          "package_name": "com.example.wise_saying"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757963007990-hkoh2s2vrnpflbki885s6e79iagn7qjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkzsYrzQB6Lb1lP5cmlupImcVoiFIn4GU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757963007990-hkoh2s2vrnpflbki885s6e79iagn7qjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
