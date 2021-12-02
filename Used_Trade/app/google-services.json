@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "118453633554",
+    "firebase_url": "https://used-trade-ced74-default-rtdb.firebaseio.com",
+    "project_id": "used-trade-ced74",
+    "storage_bucket": "used-trade-ced74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118453633554:android:b11ebf97d68b3c97e64ecb",
+        "android_client_info": {
+          "package_name": "com.example.used_trade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118453633554-f8i7256mkjlhmbuba8kfef48bepvg78b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc9V9kmPGgf8ZN69kdk7r-vapEBq1sFm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118453633554-f8i7256mkjlhmbuba8kfef48bepvg78b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
