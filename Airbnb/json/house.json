@@ -1,0 +1,44 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "title": "최저가!! 레지던스",
+            "price": "230,000원",
+            "lat": 37.497854,
+            "lng": 127.027631,
+            "imgUrl": "https://i.picsum.photos/id/421/200/200.jpg?hmac=Kix073-H73pkRedH4XJ8fenHLI9Sd9akWlOFjKog0EA"
+        },
+        {
+            "id": 2,
+            "title": "강남역!! 위치 초 근접!",
+            "price": "210,000원",
+            "lat": 37.497845,
+            "lng": 127.029197,
+            "imgUrl": "https://i.picsum.photos/id/1060/200/200.jpg?hmac=M0E6SK-_reDe8rAPtwDpww5ihTgL6yewgERGc7eX5z8"
+        },
+        {
+            "id": 3,
+            "title": "강남역!! 편의점 바로 앞!!",
+            "price": "150,000원",
+            "lat": 37.496875,
+            "lng": 127.027480,
+            "imgUrl": "https://i.picsum.photos/id/492/200/200.jpg?hmac=XU2aUuiOp-6a1CXwWFsbEobU3xA-9upNSkJiJacygTM"
+        },
+        {
+            "id": 4,
+            "title": "강남역 도보 5분거리!",
+            "price": "200,000원",
+            "lat": 37.500479,
+            "lng": 127.027681,
+            "imgUrl": "https://i.picsum.photos/id/472/200/200.jpg?hmac=PScxKeNxgxcauarhbWIWesyo4VsouCtfdX8fNTy9HRI"
+        },
+        {
+            "id": 5,
+            "title": "번화가 바로 앞!!",
+            "price": "190,000원",
+            "lat": 37.494333,
+            "lng": 127.028829,
+            "imgUrl": "https://i.picsum.photos/id/96/200/200.jpg?hmac=OWdGKA_6EKn7IZEMPRZ-F_wvRBZlDHi-n9QCzIKJV_4"
+        }
+    ]
+}
