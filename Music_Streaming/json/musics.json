@@ -1,0 +1,58 @@
+{
+    "musics": [
+        {
+            "track": "Disco",
+            "streamUrl": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/048/disco-1638450035-Vef5cwHt2U.mp3",
+            "artist": "Clarx",
+            "coverUrl": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/048/325x325/disco-1638450031-rcV9eT9vbL.jpg"
+        },
+        {
+            "track": "Promise",
+            "streamUrl": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/046/promise-1637928041-AB6FmS1Lo0.mp3",
+            "artist": "EBEN",
+            "coverUrl": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/046/325x325/promise-1637928038-Mh61TH8dzP.jpg"
+        },
+        {
+            "track": "Cayenne",
+            "streamUrl": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/037/cayenne-1636459235-kMLwNBUuXu.mp3",
+            "artist": "Zoe Moon, STAR SEED",
+            "coverUrl": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/037/325x325/cayenne-1636459232-xHN2nAwxH3.jpg"
+        },
+        {
+            "track": "Push The Gas",
+            "streamUrl": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/035/push-the-gas-1636120837-lMBDr3UvEl.mp3",
+            "artist": "The LJ, M.I.M.E",
+            "coverUrl": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/035/325x325/push-the-gas-1636120832-Wtjyskugxm.jpg"
+        },
+        {
+            "track": "Melodia",
+            "streamUrl": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/039/melodia-1636711234-TRB1LMpJJB.mp3",
+            "artist": "Syn Cole",
+            "coverUrl": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/039/325x325/melodia-1636711231-q9sA6J5prH.jpg"
+        },
+        {
+            "track": "Sleeping Till Noon",
+            "streamUrl": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/044/sleeping-till-noon-1637672435-nmEZTmqdRC.mp3",
+            "artist": "Andrew A, FROZT",
+            "coverUrl": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/044/325x325/sleeping-till-noon-1637672432-ZDZokTvc7x.jpg"
+        },
+        {
+            "track": "Capsized",
+            "streamUrl": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/055/capsized-1639479633-C74NZsCkpB.mp3",
+            "artist": "Tollef",
+            "coverUrl": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/055/325x325/capsized-1639479631-oJ5OYryz3R.jpg"
+        },
+        {
+            "track": "Legacy",
+            "streamUrl": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/052/legacy-1639177235-T6E9kKc2qj.mp3",
+            "artist": "BENIX, Dirty Palm",
+            "coverUrl": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/052/325x325/legacy-1639177231-NCZhzisVBJ.jpg"
+        },
+        {
+            "track": "Lucky Charm",
+            "streamUrl": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/053/lucky-charm-1639177244-2sKijtvjnk.mp3",
+            "artist": "OVSKY",
+            "coverUrl": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/053/325x325/lucky-charm-1639177242-F58zNUcYSG.jpg"
+        }
+    ]
+}
