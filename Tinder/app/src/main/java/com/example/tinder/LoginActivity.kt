@@ -49,7 +49,7 @@ class LoginActivity : AppCompatActivity() {
                     if (task.isSuccessful) {
                         Toast.makeText(this, "회원가입에 성공했습니다. 로그인 버튼을 눌러 로그인해주세요.", Toast.LENGTH_SHORT).show()
                     } else {
-                        Toast.makeText(this, "이미 가입한 이메일이거나, 회원가입에 실패했습니다..", Toast.LENGTH_SHORT).show()
+                        Toast.makeText(this, "이미 가입한 이메일이거나, 회원가입에 실패했습니다.", Toast.LENGTH_SHORT).show()
                     }
                 }
         }
